@@ -1,9 +1,6 @@
-# ntcp-modelling-functional-data-analysis
-NTCP modelling using functional data analysis methods
-
 # Normal tissue complication probability (NTCP) modelling using functional data analysis methods
 
-Functional data analysis models of severe acute mucositis and dysphagia resulting from head and neck radiotherapy.
+Code for radiotherapy NTCP modelling using functional data analysis methods.
 
 To perform the modelling use the ntcpModellingFunctionalDataAnalysis.R R script.
 
