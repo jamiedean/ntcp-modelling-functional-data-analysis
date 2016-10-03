@@ -13,11 +13,11 @@ The following dependencies should be installed:
 
 Details of the modelling can be found in the article:
 
-Functional data analysis applied to modeling of severe acute mucositis and dysphagia resulting from head and neck radiation therapy. Dean  JA et al. Int J Radiat Oncol Biol Phys 2016.
+Functional data analysis applied to modeling of severe acute mucositis and dysphagia resulting from head and neck radiation therapy. Dean  JA et al. Int J Radiat Oncol Biol Phys 2016 in press (http://dx.doi.org/10.1016/j.ijrobp.2016.08.013).
 
 Please consider citing the above article in publications using the code.
 
-This script is intended for research purposes only.
+This code is intended for research purposes only.
 
 If you encounter any problems trying to use the code or wish to discuss any aspect of it please feel free to contact me at jamie.adam.dean@gmail.com.
 
